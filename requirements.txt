@@ -1,0 +1,2 @@
+tld==0.12.6
+unshortenit==0.4.0
